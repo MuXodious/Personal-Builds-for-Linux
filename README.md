@@ -1,5 +1,7 @@
 Personal-GPTQ-for-LLaMa-Builds
+
 Cuda: 11.8
+
 Python 3.10.9 ¾ 3.11.3
 
 https://github.com/qwopqwop200/GPTQ-for-LLaMa -b cuda
