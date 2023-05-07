@@ -17,3 +17,13 @@ git: xformers-0.0.20+6425fd0
 Cuda: 11.8
 
 Python 3.11.3
+
+
+
+## bitsandbytres
+
+git: bitsandbytes-0.38.1+9e7cdc9
+
+Cuda: 11.8
+
+Python 3.11.3
