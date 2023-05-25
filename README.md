@@ -1,5 +1,5 @@
 ## GPTQ-for-LLaMa
-Cuda: 11.8
+Cuda: 11.8 & 12.1
 
 Python 3.10.9 & 3.11.3
 
@@ -12,9 +12,7 @@ https://github.com/oobabooga/GPTQ-for-LLaMa.git -b cuda
 
 ## xformers
 
-git: xformers-0.0.20+6425fd0
-
-Cuda: 11.8
+Cuda: 11.8 & 12.1
 
 Python 3.11.3
 
@@ -22,8 +20,6 @@ Python 3.11.3
 
 ## bitsandbytres
 
-git: bitsandbytes-0.38.1+9e7cdc9
-
-Cuda: 11.8
+Cuda: 11.8 & 12.1
 
 Python 3.11.3
